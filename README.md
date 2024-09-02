@@ -8,6 +8,7 @@ I'm Lee, Leetfs = Lee-Transforms , and **Lee-Transforms** represents transformat
 - **[project-trans](https://github.com/project-trans)**: Project Trans (formerly known as MtF.wiki) aims to better maintain multiple projects including MtF wiki, FtM wiki and more.
 
 ### 待办
+- ~~rle.wiki/减肥攻略~~
 - **rle.wiki/境外购药指南**
 
 ### 🌱 I’m currently learning
