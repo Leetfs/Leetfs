@@ -2,7 +2,7 @@
 
 ✨ **Welcome to my GitHub profile!** ✨
 
-I'm Lee, and **Lee-Transform** represents transformation and rebirth, change and growth. My journey is all about embracing new beginnings and pushing boundaries to create a more inclusive and innovative world.
+I'm Lee, Leetfs = Lee-Transforms , and **Lee-Transforms** represents transformation and rebirth, change and growth. My journey is all about embracing new beginnings and pushing boundaries to create a more inclusive and innovative world.
 
 ### 🔭 I’m currently working on
 - **[project-trans](https://github.com/project-trans)**: Project Trans (formerly known as MtF.wiki) aims to better maintain multiple projects including MtF wiki, FtM wiki and more.
