@@ -1,32 +1,32 @@
-## Hi there 👋 
+## 你好 👋 
 
-✨ **Welcome to my GitHub profile!** ✨
+✨ **欢迎来到我的 GitHub 主页！** ✨
 
-I'm Lee, Leetfs = Lee-Transforms , and **Lee-Transforms** represents transformation and rebirth, change and growth. My journey is all about embracing new beginnings and pushing boundaries to create a more inclusive and innovative world.
+我是 Lee，Leetfs = Lee-Transforms，**Lee-Transforms** 代表着转变与重生，改变与成长。抛弃以前的自己，一切从新开始。
 
-### 🔭 I’m currently working on
-- **[project-trans](https://github.com/project-trans)**: Project Trans (formerly known as MtF.wiki) aims to better maintain multiple projects including MtF wiki, FtM wiki and more.
+### 🔭 我目前正在做的项目
+- **[project-trans](https://github.com/project-trans)**: Project Trans（前身为 MtF.wiki）旨在更好地维护多个项目，包括 MtF wiki、FtM wiki 及更多。
 
-### 🌱 I’m currently learning
-- **HTML5**: Building modern, responsive web pages.
-- **CSS**: Crafting visually appealing and accessible designs.
-- **C Language**: Mastering the fundamentals of programming.
-- **Unity3D**: Exploring game development and immersive experiences.
-- **SQL**: Managing and querying databases.
-- **Java**: Enhancing my skills in object-oriented programming.
+### 📋 待办事项
+- ~~rle.wiki/减肥攻略~~
+- ~~rle.wiki/境外购药指南~~
+- **Testoviron Depot（拜耳）真伪辨别**
 
-### 👯 I’m looking to collaborate on
-- Let's work together to make a positive impact on the world! I'm open to projects that drive social change, promote inclusivity, and leverage technology for the greater good.
+### 🌱 我目前正在学习
+- **HTML5**、**CSS**、**C语言**、**Unity3D**、**SQL**、**Java**
 
-### 💬 Personal Motto:
-- "A future without a future is not the future I want."
+### 👯 我希望与他人合作
+- 让我们一起合作，为世界带来积极的改变！我对推动社会变革、促进包容性以及利用技术造福大众的项目持开放态度。
 
-### 📫 How to reach me:
-- You can connect with me on [Telegram](https://t.me/mtflee)
-- Feel free to drop me an email at lee@mtftm.com
+### 💬 我的个人格言：
+- “没有未来的未来，不是我想要的未来。”
 
-### 😄 Pronouns:
+### 📫 如何联系我：
+- 你可以通过 [Telegram](https://t.me/leetfs) 联系我。
+- 或者给我发邮件：lee@mtftm.com
+
+### 😄 我的代词：
 - They/Them
 
-### ⚡ Fun fact:
-- I believe in the power of transformation—both in technology and in life. Let’s create something transformative together!
+### ⚡ 趣味小知识：
+- 我相信转变的力量——无论是技术上的还是生活中的。让我们一起创造一些具有变革性的东西吧！
