@@ -2,7 +2,7 @@
 
 ✨ **欢迎来到我的 GitHub 主页！** ✨
 
-我是 Lee，Leetfs = Lee-Transform**s**，**Transforms** 代表着转变与重生，改变与成长。抛弃以前的自己，一切从新开始。
+我是 Lee，Leetfs = Lee-Transform**s**，**Transforms** 象征着变化、转变、进化和重生。*抛弃以前的自己，一切从新开始。*
 
 ### 🔭 我目前正在做的项目
 - **[project-trans](https://github.com/project-trans)**: Project Trans（前身为 MtF.wiki）旨在更好地维护多个项目，包括 MtF wiki、FtM wiki 及更多。
