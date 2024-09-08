@@ -8,7 +8,7 @@
 - 你可以通过 [Telegram](https://t.me/leetfs) 联系我。
 - 或者给我发邮件：lee@mtftm.com
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; gap: 10px;">
+<div style="display: inline-flex; justify-content: center; align-items: center; width: 100%; gap: 10px;">
   <div style="flex: 1;">
     <picture>
       <source 
@@ -21,9 +21,8 @@
       />
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" style="width: 100%; height: auto;" />
     </picture>
-  </div>
-
-  <div style="flex: 1;">
+  </div><!--
+  --><div style="flex: 1;">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
@@ -37,7 +36,6 @@
     </picture>
   </div>
 </div>
-
 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,unity,ae,au,ai,ps,pr,blender,c,cs,cpp,cloudflare,css,debian,docker,git,github,githubactions,html,md,ubuntu)](https://skillicons.dev)
