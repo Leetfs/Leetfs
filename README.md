@@ -8,8 +8,8 @@
 - 你可以通过 [Telegram](https://t.me/leetfs) 联系我。
 - 或者给我发邮件：lee@mtftm.com
 
-<div style="display: inline-flex; justify-content: center; align-items: center; width: 100%; gap: 10px;">
-  <div style="flex: 1;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="flex: 1; margin-right: 10px;">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
