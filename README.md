@@ -8,35 +8,35 @@
 - 你可以通过 [Telegram](https://t.me/leetfs) 联系我。
 - 或者给我发邮件：lee@mtftm.com
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's GitHub stats" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin-right: 20px;">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" />
+    </picture>
+  </div>
+
+  <div>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's GitHub stats" />
+    </picture>
+  </div>
+</div>
+
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,unity,ae,au,ai,ps,pr,blender,c,cs,cpp,cloudflare,css,debian,docker,git,github,githubactions,html,md,ubuntu)](https://skillicons.dev)
