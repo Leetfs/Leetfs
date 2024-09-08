@@ -9,7 +9,7 @@
 - 或者给我发邮件：lee@mtftm.com
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; padding-right: 10px;">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
@@ -21,8 +21,8 @@
       />
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" style="width: 100%; height: auto;" />
     </picture>
-  </div><!--
-  --><div style="flex: 1;">
+  </div>
+  <div style="flex: 1;">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
