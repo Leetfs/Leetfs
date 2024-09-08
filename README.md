@@ -20,7 +20,6 @@
     />
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" style="width: 100%; height: 100%;" />
   </picture>
-  
   <picture style="flex: 1; max-width: 50%;">
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
