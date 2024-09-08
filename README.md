@@ -8,37 +8,35 @@
 - 你可以通过 [Telegram](https://t.me/leetfs) 联系我。
 - 或者给我发邮件：lee@mtftm.com
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; padding: 0;">
-      <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" style="width: 100%;" />
-      </picture>
-    </td>
-    <td style="width: 50%; padding: 0;">
-      <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's Top Languages" style="width: 100%;" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; gap: 10px;">
+  <div style="flex: 1;">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" style="width: 100%; height: auto;" />
+    </picture>
+  </div>
 
+  <div style="flex: 1;">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's Top Languages" style="width: 100%; height: auto;" />
+    </picture>
+  </div>
+</div>
 
 
 
