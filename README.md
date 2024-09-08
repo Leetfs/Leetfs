@@ -34,9 +34,9 @@
 ### ⚡ 趣味小知识：
 - 我相信转变的力量——无论是技术上的还是生活中的。让我们一起创造一些具有变革性的东西吧！
 
-<p align="center">
-  <span style="display: inline-block;">
-    <picture align="center" height="200em">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin-right: 20px;">
+    <picture height="200em">
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
         media="(prefers-color-scheme: dark)"
@@ -45,12 +45,12 @@
         srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" />
     </picture>
-  </span>
+  </div>
 
-  <span style="display: inline-block;">
-    <picture align="center" height="200em">
+  <div>
+    <picture height="200em">
       <source 
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
         media="(prefers-color-scheme: dark)"
@@ -59,7 +59,7 @@
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's GitHub stats" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's GitHub stats" />
     </picture>
-  </span>
-</p>
+  </div>
+</div>
