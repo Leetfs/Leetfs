@@ -8,8 +8,8 @@
 - 你可以通过 [Telegram](https://t.me/leetfs) 联系我。
 - 或者给我发邮件：lee@mtftm.com
 
-<p align="center">
-  <picture align="center" height="200em">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <picture style="flex: 1; margin-right: 10px; max-width: 50%;">
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -18,9 +18,10 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" style="width: 100%; height: 100%;" />
   </picture>
-  <picture align="center" height="200em">
+  
+  <picture style="flex: 1; max-width: 50%;">
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -29,8 +30,9 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's GitHub stats" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's Top Languages" style="width: 100%; height: 100%;" />
   </picture>
-</p>
+</div>
+
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,unity,ae,au,ai,ps,pr,blender,c,cs,cpp,cloudflare,css,debian,docker,git,github,githubactions,html,md,ubuntu)](https://skillicons.dev)
