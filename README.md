@@ -9,7 +9,7 @@
 - 或者给我发邮件：lee@mtftm.com
 
 <p align="center">
-  <picture align="center" height="200em">
+  <picture align="center" height="180em">
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -18,7 +18,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" />
   </picture>
   <picture align="center" height="180em">
     <source 
