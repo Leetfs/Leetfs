@@ -6,6 +6,7 @@
 
 ### 🔭 我目前正在做的项目
 - **[project-trans](https://github.com/project-trans)**: Project Trans（前身为 MtF.wiki）旨在更好地维护多个项目，包括 MtF wiki、FtM wiki 及更多。
+- **[study-wiki](https://github.com/Leetfs/study-wiki)**: 一份简单的学习笔记。
 
 ### 📋 待办事项
 - ~~rle.wiki/减肥攻略~~
