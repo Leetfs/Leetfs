@@ -11,7 +11,8 @@
 ### 📋 待办事项
 - ~~rle.wiki/减肥攻略~~
 - ~~rle.wiki/境外购药指南~~
-- **Testoviron Depot（拜耳）真伪辨别**
+- **rle.wiki/Testoviron Depot（拜耳）真伪辨别**
+- **rle.wiki/如何DIY处方单**
 
 ### 🌱 我目前正在学习
 - **HTML5**、**CSS**、**C语言**、**Unity3D**、**SQL**、**Java**
