@@ -8,8 +8,8 @@
 - 你可以通过 [Telegram](https://t.me/leetfs) 联系我。
 - 或者给我发邮件：lee@mtftm.com
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <picture style="flex: 1; min-width: 300px; max-width: 45%; margin-right: 10px;">
+<p align="center" style="display: flex; justify-content: center; align-items: stretch; flex-wrap: nowrap;">
+  <picture style="flex: 1; margin-right: 10px; max-width: 50%;">
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -18,10 +18,10 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" style="width: 100%; height: 100%;" />
   </picture>
   
-  <picture style="flex: 1; min-width: 300px; max-width: 45%;">
+  <picture style="flex: 1; max-width: 50%;">
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -30,7 +30,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's GitHub stats" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's GitHub stats" style="width: 100%; height: 100%;" />
   </picture>
 </p>
 
