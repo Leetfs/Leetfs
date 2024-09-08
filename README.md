@@ -20,7 +20,7 @@
     />
     <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&include_all_commits=true&count_private=true" alt="Leetfs's GitHub stats" />
   </picture>
-  <picture align="center" height="190em">
+  <picture align="center" height="180em">
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -29,7 +29,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's GitHub stats" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetfs&layout=compact" alt="Leetfs's GitHub stats" />
   </picture>
 </p>
 
