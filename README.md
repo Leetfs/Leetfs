@@ -7,10 +7,10 @@
 - 或者给我发邮件：lee@mtftm.com
 
 <a href="https://github.com/Leetfs/">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&show_icons=true&count_private=true" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/Leetfs/">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leetfs&layout=compact&langs_count=8" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leetfs&layout=compact&langs_count=8" />
 </a>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,unity,ae,au,ai,ps,pr,blender,c,cs,cpp,cloudflare,css,debian,docker,git,github,githubactions,html,md,ubuntu,vue,vite)](https://skillicons.dev)
