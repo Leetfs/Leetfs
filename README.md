@@ -7,7 +7,7 @@
 - 或者给我发邮件：lee@mtftm.com
 
 <a href="https://github.com/Leetfs/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&card_width=200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&card_width=200&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/Leetfs/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leetfs&layout=compact&langs_count=8&card_width=200" />
