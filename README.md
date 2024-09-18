@@ -2,9 +2,9 @@
 
 ✨ **欢迎来到我的 GitHub 主页！** ✨
 
-### 📫 如何联系我：
-- 你可以通过 [Telegram](https://t.me/leetfs) 联系我。
-- 或者给我发邮件：lee@mtftm.com
+- Telegram: [@Leetfs](https://t.me/leetfs) 
+- 邮件：lee@mtftm.com
+- PGP pubkey: [`16B6 8466 D702 DB58 D893 9F9F F524 9CF8 681F 623F`](https://keyserver.ubuntu.com/pks/lookup?search=16B68466D702DB58D8939F9FF5249CF8681F623F&fingerprint=on&op=index)
 
 <a href="https://github.com/Leetfs/">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Leetfs&show_icons=true&count_private=true" />
