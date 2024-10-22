@@ -12,4 +12,4 @@
   <img width=350 height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=Leetfs&layout=compact&langs_count=8" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,unity,ae,au,ai,ps,pr,blender,c,cs,cpp,cloudflare,css,debian,docker,git,github,githubactions,html,md,ubuntu,vue,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,unity,ae,au,ai,ps,pr,blender,c,cs,cpp,cloudflare,html,css,debian,docker,git,github,githubactions,react,linux,md,npm,pnpm,ubuntu,vue,vite,electron)](https://skillicons.dev)
