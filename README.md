@@ -6,10 +6,16 @@ A 20-year-old university student currently interning at the **Institute of Softw
 
 ---
 
-### 📫 Contact  
+### 📫 Contact
+
 - 📧 Email: `lee (at) mtftm [dot] com`  
-- 📧 Email: `guanli.plct (at) isrc.iscas [dot] ac.cn`  
 - 🔑 PGP Key: [`16B6 8466 D702 DB58 D893 9F9F F524 9CF8 681F 623F`](https://keyserver.ubuntu.com/pks/lookup?search=16B68466D702DB58D8939F9FF5249CF8681F623F&fingerprint=on&op=index)  
+
+---
+
+### 🕹️ Recently played games
+
+![](./metrics.plugin.steam.svg)
 
 ---
 
