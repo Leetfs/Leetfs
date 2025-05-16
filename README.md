@@ -2,7 +2,7 @@
 
 **Passionate about open-source, technology, and equality.**
 
-A 20-year-old university student currently interning at the **Institute of Software, Chinese Academy of Sciences**, and an active member of **Project Trans**.
+A 20-year-old university student currently interning at the **Institute of Software, Chinese Academy of Sciences**, and an active member of **Project Trans**. Welcome to view my [resume](https://leetfs.com/about/resume) to learn more about me.
 
 ---
 
