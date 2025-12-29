@@ -2,7 +2,9 @@
 
 **Passionate about open-source, technology, and equality.**
 
-A 20-year-old university student. Previously interned at the **Institute of Software, Chinese Academy of Sciences**, and an active member of **Project Trans** & **开往 travellings**. Welcome to view my [resume](https://leetfs.com/about/resume) to learn more about me.
+An undergraduate student currently interning at the Institute of Software, Chinese Academy of Sciences, with a primary focus on RISC-V, foundational software, and systems. Actively involved in open-source projects including Project Trans, Travellings, and aboutTrans.
+
+Feel free to check out my [resume](https://leetfs.com/about/resume) to learn more about me.
 
 ---
 
