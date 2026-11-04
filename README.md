@@ -2,7 +2,7 @@
 
 **Passionate about open-source, technology, and equality.**
 
-An undergraduate student currently interning at the Institute of Software, Chinese Academy of Sciences, with a primary focus on RISC-V, foundational software, and systems. Actively involved in open-source projects including Project Trans, Travellings, and aboutTrans.
+An undergraduate student currently interning at the Institute of Software, Chinese Academy of Sciences, with a primary focus on RISC-V, foundational software, and systems.
 
 Feel free to check out my [resume](https://leetfs.com/about/resume) to learn more about me.
 
